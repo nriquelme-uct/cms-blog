@@ -1,0 +1,2 @@
+En este proyecto utilicé apoyo de IA para asistir el formateo de visualización de posts dentro de index.php.
+El resto del código fué hecho con asistencia de recursos de documentación, los demos proporcionados por el profesor y foros de programación.
